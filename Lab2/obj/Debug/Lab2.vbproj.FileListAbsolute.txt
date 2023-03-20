@@ -1,0 +1,12 @@
+D:\VB3\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\VB3\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\VB3\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\VB3\Lab2\Lab2\bin\Debug\Lab2.xml
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.vbproj.AssemblyReference.cache
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.vbproj.SuggestedBindingRedirects.cache
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.Resources.resources
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.vbproj.GenerateResource.cache
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.vbproj.CoreCompileInputs.cache
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.xml
+D:\VB3\Lab2\Lab2\obj\Debug\Lab2.pdb
